@@ -1,0 +1,1 @@
+This package is a ts version of <a href="https://www.npmjs.com/package/svelte-paginate">svelte-paginate</a>.Credit goes to https://github.com/TahaSh/svelte-paginate.

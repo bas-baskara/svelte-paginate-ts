@@ -1,0 +1,44 @@
+{
+  "name": "svelte-paginate-ts",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Svelte Paginate in TS. Forked from https://github.com/TahaSh/svelte-paginate",
+  "license": "MIT",
+  "main": "src/main.js",
+  "svelte": "src/main.js",
+  "types": "src/main.ts",
+  "type": "module",
+  "keywords": [
+    "svelte",
+    "paginate",
+    "typescript"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "ts": "tsc"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "@tsconfig/svelte": "^2.0.1",
+    "@types/jest": "^28.1.4",
+    "svelte": "^3.44.0",
+    "svelte-check": "^2.2.7",
+    "svelte-preprocess": "^4.9.8",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bas-baskara/svelte-paginate-ts"
+  },
+  "bugs": "https://github.com/bas-baskara/svelte-paginate-ts/issues",
+  "release": {
+    "branches": [
+      "master"
+    ]
+  }
+}
