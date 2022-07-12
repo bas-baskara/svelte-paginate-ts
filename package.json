@@ -1,6 +1,5 @@
 {
   "name": "svelte-paginate-ts",
-  "private": true,
   "version": "0.0.1",
   "description": "Svelte Paginate in TS. Forked from https://github.com/TahaSh/svelte-paginate",
   "license": "MIT",
